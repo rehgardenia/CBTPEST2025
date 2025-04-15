@@ -106,14 +106,14 @@ void ex10()//Calculo de Juros Simples
 
 }
 
-// ex1();
-// ex2();
-// ex3();
-// ex4();
-// ex5();
-// ex6();
-// ex7();
-// ex8();
-// ex9();
+ex1();
+ex2();
+ex3();
+ex4();
+ex5();
+ex6();
+ex7();
+ex8();
+ex9();
 ex10();
 
